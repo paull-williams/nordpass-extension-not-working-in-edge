@@ -130,7 +130,7 @@ If none of the troubleshooting steps resolved the issue, it might be time to rea
 
 To contact NordPass support:
 
-1. Visit the **NordPass Help Center** (https://support.nordpass.com).
+1. Visit the NordPass Help Center
 2. Search for solutions to your issue or submit a request for personalized support.
 3. You can also reach NordPass through live chat or email.
 
