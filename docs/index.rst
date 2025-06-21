@@ -35,12 +35,12 @@ Several issues may cause the **NordPass extension** to stop working correctly in
 
 Now that we’ve identified some of the common problems, let’s walk through how to resolve them.
 
-3. How to Troubleshoot NordPass Extension in Microsoft Edge
+How to Troubleshoot NordPass Extension in Microsoft Edge
 ==========================================================
 
 If the NordPass extension is not working as expected, follow these troubleshooting steps to resolve the issue.
 
-4. Update Microsoft Edge
+Update Microsoft Edge
 ========================
 
 One of the most common reasons extensions stop functioning is outdated browser versions. If you’re using an old version of **Microsoft Edge**, the **NordPass extension** may not work correctly. Here’s how to update Microsoft Edge:
@@ -52,7 +52,7 @@ One of the most common reasons extensions stop functioning is outdated browser v
 
 Updating Edge is an essential step because newer versions include security fixes and updates to extension compatibility.
 
-5. Reinstall the NordPass Extension
+Reinstall the NordPass Extension
 ===================================
 
 If updating Microsoft Edge didn’t resolve the issue, try reinstalling the **NordPass extension**. Sometimes, corrupted extensions cause problems.
@@ -67,7 +67,7 @@ Here’s how to reinstall the NordPass extension:
 
 Reinstalling the extension helps eliminate any configuration or installation errors that might have occurred initially.
 
-6. Clear Cache and Cookies in Microsoft Edge
+Clear Cache and Cookies in Microsoft Edge
 ===========================================
 
 If your **NordPass extension** is not syncing or autofilling correctly, it could be due to corrupted cookies or cache data stored by Edge. Clearing this data often resolves such issues.
@@ -83,7 +83,7 @@ Follow these steps to clear the cache and cookies in Edge:
 
 Once the cache and cookies are cleared, restart Edge and check if the NordPass extension is functioning correctly.
 
-7. Check NordPass Server Status
+Check NordPass Server Status
 ===============================
 
 Sometimes the issue may not be with your browser or extension but rather with the **NordPass servers**. If NordPass is experiencing an outage or maintenance, the extension may fail to function correctly.
@@ -95,7 +95,7 @@ To check the status of NordPass services:
 
 If NordPass servers are down, you may need to wait for the issue to be resolved.
 
-8. Disable Conflicting Extensions
+Disable Conflicting Extensions
 =================================
 
 In some cases, other browser extensions may conflict with the **NordPass extension**, preventing it from working correctly. To identify and fix this issue, try disabling other extensions temporarily.
@@ -109,7 +109,7 @@ Here’s how you can disable other extensions:
 
 If disabling other extensions resolves the issue, try enabling them one by one to identify the conflicting extension. Once you identify the conflicting extension, you can either disable it permanently or look for an alternative extension.
 
-9. Reset Microsoft Edge Settings
+Reset Microsoft Edge Settings
 =================================
 
 If none of the above steps worked, you may want to reset your **Microsoft Edge settings** to their default state. This action will undo any customizations or configurations that might have caused issues with the NordPass extension.
@@ -123,7 +123,7 @@ To reset Edge settings:
 
 Resetting Edge will restore all settings, which can help resolve any conflicts or issues caused by browser customizations.
 
-10. Contact NordPass Support
+Contact NordPass Support
 ===========================
 
 If none of the troubleshooting steps resolved the issue, it might be time to reach out to **NordPass Support** for assistance. They can provide further guidance and help you troubleshoot the problem in more detail.
